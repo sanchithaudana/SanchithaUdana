@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at University of Colombo
 
 
-![sdlc](https://user-images.githubusercontent.com/109952575/208307954-a82c981a-4798-4895-aff8-060a7e01719e.gif)
+     ![sdlc](https://user-images.githubusercontent.com/109952575/208307954-a82c981a-4798-4895-aff8-060a7e01719e.gif)
 
 
 
