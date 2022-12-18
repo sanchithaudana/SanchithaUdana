@@ -2,7 +2,7 @@
  
  ![hello-world](https://user-images.githubusercontent.com/109952575/208308858-d8d0cfd8-702a-4136-8e9a-3052cccccb55.gif) <hr>
 
-<h2>Hi, I’m <b>Sanchitha Udana Wijesundara</b></h2>
+<h1>I’m <b>Sanchitha Udana Wijesundara</b></h1>
 - 👀 I’m interested in <b>Software Engineering </b> 
 - I’m currently learning at <b><a href=https://cmb.ac.lk/> University of Colombo Faculty of Technology</a></b><hr>
 
