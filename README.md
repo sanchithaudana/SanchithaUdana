@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/sanchithaudana9" target="blank"><img src="https://img.shields.io/twitter/follow/sanchithaudana9?logo=twitter&style=for-the-badge" alt="sanchithaudana9" /></a> </p>
 
-- 🔭 I’m currently studying in **<b><a href=https://tech.cmb.ac.lk/> University of Colombo Faculty of Technology</a></b>**
+- 🔭 I’m currently studying in **<b><a href=https://tech.cmb.ac.lk/> University of Colombo FOT</a></b>**
 
 - 🌱 I’m currently learning **Java, SpringBoot**
 
