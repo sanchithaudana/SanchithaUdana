@@ -43,3 +43,8 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchithaudana&show_icons=true&locale=en" alt="sanchithaudana" /></p>
 <hr>
+
+
+![PNC-Animated-Banners](https://user-images.githubusercontent.com/109952575/208851714-7389a1f3-fabd-4050-9791-bfc1569d8012.gif)
+
+
