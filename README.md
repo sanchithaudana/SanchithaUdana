@@ -29,6 +29,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sanchitha-udana-wijesundara-8a2b96217/](https://www.linkedin.com/in/sanchitha-udana-wijesundara-8a2b96217/)
 <hr>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanchithaudana9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanchithaudana9" height="30" width="40" /></a>
@@ -45,8 +47,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchithaudana&show_icons=true&locale=en" alt="sanchithaudana" /></p>
 <hr>
-
-
-![PNC-Animated-Banners](https://user-images.githubusercontent.com/109952575/208851714-7389a1f3-fabd-4050-9791-bfc1569d8012.gif)
-
 <hr>
