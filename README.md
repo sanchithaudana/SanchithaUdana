@@ -8,12 +8,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109952575/208570519-b7171539-1644-45fd-af65-5c515cd5693c.gif">
 
-<!---
-SanchithaUdana/SanchithaUdana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <h1 align="center">Hi 👋, I'm Sanchitha Udana Wijesundara</h1>
 <h3 align="center">I’m Interested in Software Engineering</h3>
 
