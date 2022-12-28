@@ -7,13 +7,15 @@
 -->
 
 
-<h1 align="center">Hi 👋, I'm Sanchitha Udana Wijesundara</h1>
+<h1 align="center"><b>Hi 👋, I'm Sanchitha Udana Wijesundara</b></h1>
+<h3 align="center">I’m Interested in Software Engineering</h3>
+<hr>
 
 ![banner-bg](https://user-images.githubusercontent.com/109952575/208571815-e747c4d7-9f88-4486-a1f4-fe7e5d764bcd.gif)
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109952575/208570519-b7171539-1644-45fd-af65-5c515cd5693c.gif">
 
-<h3 align="center">I’m Interested in Software Engineering</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchithaudana&label=Profile%20views&color=0e75b6&style=flat" alt="sanchithaudana" /> </p>
 
