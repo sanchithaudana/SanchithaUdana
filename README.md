@@ -47,4 +47,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchithaudana&show_icons=true&locale=en" alt="sanchithaudana" /></p>
 <hr>
+
+![PNC-Animated-Banners](https://user-images.githubusercontent.com/109952575/209853612-4f6449ae-dbf3-4701-bdda-e168f7247cf9.gif)
+
+
+
 <hr>
