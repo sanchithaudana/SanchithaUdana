@@ -48,8 +48,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchithaudana&show_icons=true&locale=en" alt="sanchithaudana" /></p>
 <hr>
 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SanchithaUdana)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SanchithaUdana)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SanchithaUdana)  
+
+<hr>
+<hr>
+
 ![PNC-Animated-Banners](https://user-images.githubusercontent.com/109952575/209853612-4f6449ae-dbf3-4701-bdda-e168f7247cf9.gif)
 
-![4910984](https://user-images.githubusercontent.com/109952575/209854209-1631d340-6d00-4ca6-a24b-2bd3b8848bee.gif)
+
 
 
