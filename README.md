@@ -21,6 +21,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchithaudana&label=Profile%20views&color=0e75b6&style=flat" alt="sanchithaudana" /> </p>
 
+
+
 <p align="left"> <a href="https://twitter.com/sanchithaudana9" target="blank"><img src="https://img.shields.io/twitter/follow/sanchithaudana9?logo=twitter&style=for-the-badge" alt="sanchithaudana9" /></a> </p>
 
 - 🔭 I’m currently studying in **<b><a href=https://tech.cmb.ac.lk/> University of Colombo FOT</a></b>**
@@ -70,6 +72,12 @@
 <hr>
 
 ![PNC-Animated-Banners](https://user-images.githubusercontent.com/109952575/209853612-4f6449ae-dbf3-4701-bdda-e168f7247cf9.gif)
+
+
+
+
+
+
 
 
 
