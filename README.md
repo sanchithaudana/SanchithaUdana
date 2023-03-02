@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently studying in **<b><a href=https://tech.cmb.ac.lk/> University of Colombo FOT</a></b>**
 
-- 🌱 I’m currently following **Java, Spring Framework, ios Developing**
+- 🌱 I’m currently following **JacaScript, React, ios Developing**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sanchitha-udana-wijesundara-8a2b96217/](https://www.linkedin.com/in/sanchitha-udana-wijesundara-8a2b96217/)
 <hr>
