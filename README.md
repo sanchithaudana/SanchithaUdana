@@ -17,9 +17,6 @@
 <hr><hr>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109952575/208570519-b7171539-1644-45fd-af65-5c515cd5693c.gif">
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchithaudana&label=Profile%20views&color=0e75b6&style=flat" alt="sanchithaudana" /> </p>
 
 
@@ -66,16 +63,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SanchithaUdana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=SanchithaUdana&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<hr>
 <hr>
 
 ![MERN-Stack-considered-the-Best-for-Developing-Web-Apps](https://user-images.githubusercontent.com/109952575/223719856-1eb04546-d2b0-4480-bc63-c5106c506283.png)
