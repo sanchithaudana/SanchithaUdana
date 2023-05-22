@@ -12,7 +12,7 @@
 -->
 <h1 align="center"><b>Hi 👋, I'm </b></h1>
 <h1 align="center"><b>Sanchitha Udana Wijesundara</b></h1>
-<h3 align="center">Software Engineering</h3>
+<h3 align="center">Web Developing</h3>
 <hr><hr>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109952575/208570519-b7171539-1644-45fd-af65-5c515cd5693c.gif">
