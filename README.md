@@ -8,8 +8,6 @@
 <!--
 ![280074718_1132020747653782_4561003557334403173_n](https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/38173122-73ff-45c5-9054-96820c9d6f60)
 -->
-
-
 ![banner-bg](https://user-images.githubusercontent.com/109952575/208571815-e747c4d7-9f88-4486-a1f4-fe7e5d764bcd.gif)
 
 <h1 align="center"><b>Hi 👋, I'm </b></h1>
