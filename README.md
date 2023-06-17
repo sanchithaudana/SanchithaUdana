@@ -15,7 +15,8 @@
 <h5 align="center">Web Developing</h5>
 <hr><hr>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109952575/208570519-b7171539-1644-45fd-af65-5c515cd5693c.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/be45cd4d-28dd-40a9-a224-b7f6b0486b19">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchithaudana&label=Profile%20views&color=0e75b6&style=flat" alt="sanchithaudana" /> </p>
 
 
