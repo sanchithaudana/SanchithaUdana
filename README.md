@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently studying in **<b><a href=https://tech.cmb.ac.lk/> University of Colombo FOT</a></b>**
 
-- 🌱 I’m currently following **React Js , ios Developing**
+- 🌱 I’m currently following **MERN Stack**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sanchitha-udana-wijesundara-8a2b96217/](https://www.linkedin.com/in/sanchitha-udana-wijesundara-8a2b96217/)
 <hr>
@@ -72,5 +72,4 @@
 ![MERN-Stack-considered-the-Best-for-Developing-Web-Apps](https://user-images.githubusercontent.com/109952575/223719856-1eb04546-d2b0-4480-bc63-c5106c506283.png)
 
 
-![iOS_banner](https://user-images.githubusercontent.com/109952575/218764697-c91e75c1-04f2-47dc-aed0-48e63ba47e04.png)
 
