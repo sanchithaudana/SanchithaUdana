@@ -71,7 +71,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 <hr>
 
-![MERN-Stack-considered-the-Best-for-Developing-Web-Apps](https://user-images.githubusercontent.com/109952575/223719856-1eb04546-d2b0-4480-bc63-c5106c506283.png)
+
 
 
 
