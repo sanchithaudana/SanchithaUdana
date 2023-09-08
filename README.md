@@ -12,7 +12,7 @@
 
 <h1 align="center"><b>Hi 👋, I'm </b></h1>
 <h1 align="center"><b>Sanchitha Udana Wijesundara</b></h1>
-<h5 align="center">Web Developing</h5>
+<h5 align="center">DevOps Engineering</h5>
 <hr><hr>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/be45cd4d-28dd-40a9-a224-b7f6b0486b19">
