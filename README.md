@@ -73,6 +73,16 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 <hr>
 
+<h1>Basic Git Commands</h1>
+<pre>
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SanchithaUdana/sanchithaudana.github.io.git
+git push -u origin main
+</pre>
+
 
 
 
