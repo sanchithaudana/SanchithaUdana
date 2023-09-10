@@ -8,9 +8,8 @@
 <!--
 ![280074718_1132020747653782_4561003557334403173_n](https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/38173122-73ff-45c5-9054-96820c9d6f60)
 -->
-<!-- ![banner-bg](https://user-images.githubusercontent.com/109952575/208571815-e747c4d7-9f88-4486-a1f4-fe7e5d764bcd.gif) -->
+ ![banner-bg](https://user-images.githubusercontent.com/109952575/208571815-e747c4d7-9f88-4486-a1f4-fe7e5d764bcd.gif)
 
-![687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f31386134393439666339633830363731373264336239366533303265373039372e676966](https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/b3b4751c-455d-418f-bf77-a1d30fb29f54)
 
 
 <h1 align="center"><b>Hi 👋, I'm </b></h1>
