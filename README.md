@@ -32,8 +32,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/sanchitha-udana-wijesundara-8a2b96217/](https://www.linkedin.com/in/sanchitha-udana-wijesundara-8a2b96217/)
 <hr>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a7af251dadb37b72b54d28?variant=dark&roadmaps=backend)](https://roadmap.sh)
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a7af251dadb37b72b54d28?variant=dark&roadmaps=devops)](https://roadmap.sh)
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
