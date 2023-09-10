@@ -17,7 +17,7 @@
 <h5 align="center">DevOps Engineering</h5>
 <hr><hr>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/be45cd4d-28dd-40a9-a224-b7f6b0486b19">
+<img align="right" alt="Coding" width="400" src="https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/783bc97e-69f8-4d4b-a852-8d6beccc15b5">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchithaudana&label=Profile%20views&color=0e75b6&style=flat" alt="sanchithaudana" /> </p>
 
