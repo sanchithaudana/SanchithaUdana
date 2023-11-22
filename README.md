@@ -39,6 +39,10 @@
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a7af251dadb37b72b54d28?variant=dark&roadmaps=devops%2Cpython)](https://roadmap.sh)
 
+![devops roadmap](https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/9828dded-fadb-44a3-a5d0-63dfe8724468)
+
+
+
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
