@@ -39,6 +39,7 @@
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a7af251dadb37b72b54d28?variant=dark&roadmaps=devops%2Cpython)](https://roadmap.sh)
 
+
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
