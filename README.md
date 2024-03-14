@@ -91,6 +91,11 @@ git remote add origin https://github.com/SanchithaUdana/sanchithaudana.github.io
 git push -u origin main
 </pre>
 
+<pre>
+ to delete git repository
+ $ rm -fr .git
+</pre>
+
 
 
 
