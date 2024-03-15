@@ -92,6 +92,12 @@ git push -u origin main
 </pre>
 
 <pre>
+ git branch newbranchName
+ git checkout newBranchName
+ git checkout master
+</pre>
+
+<pre>
  to delete git repository
  $ rm -fr .git
 </pre>
