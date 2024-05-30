@@ -100,6 +100,11 @@ git push -u origin main
  $ rm -fr .git
 </pre>
 
+<pre>
+TO Delete git ignored file from current files updated remote repository.
+git rm -r --cached <file or folder>
+</pre
+
 
 
 
