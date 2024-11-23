@@ -23,6 +23,8 @@
 <h5 align="center">DevOps Engineering</h5>
 <hr><hr>
 
+DevOps is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams
+
 <img align="right" alt="Coding" width="400" src="https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/783bc97e-69f8-4d4b-a852-8d6beccc15b5">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchithaudana&label=Profile%20views&color=0e75b6&style=flat" alt="sanchithaudana" /> </p>
