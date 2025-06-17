@@ -17,9 +17,6 @@
  ![1609097444281](https://github.com/user-attachments/assets/9d3e555d-1b31-48cb-9d4a-d0dde93e15f3)
 -->
 
-
-
-
 <h1 align="center"><b>Hi 👋, I'm </b></h1>
 <h1 align="center"><b>Sanchitha Udana Wijesundara</b></h1>
 <h5 align="center">DevOps Engineering</h5>
@@ -117,8 +114,8 @@ git push -u origin main
 </pre>
 
 <pre>
-TO Delete git ignored file from current files updated remote repository.
-git rm -r --cached fileorFolderName
+To delete a git-ignored file from the current files in the updated remote repository.
+git rm -r --cached file or FolderName
 </pre
 
 
