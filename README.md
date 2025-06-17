@@ -5,20 +5,19 @@
 <h1 align="center">Keep Clam Keep Coading</h1>
 
 -->
-<!--
-![280074718_1132020747653782_4561003557334403173_n](https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/38173122-73ff-45c5-9054-96820c9d6f60)
 
- ![banner-bg](https://user-images.githubusercontent.com/109952575/208571815-e747c4d7-9f88-4486-a1f4-fe7e5d764bcd.gif)
+<!-- ![280074718_1132020747653782_4561003557334403173_n](https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/38173122-73ff-45c5-9054-96820c9d6f60) -->
 
--->
-<!--
-![DP](https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/899f15fe-eb13-4aa5-a18a-2b7945ec1786)
--->
+![banner-bg](https://user-images.githubusercontent.com/109952575/208571815-e747c4d7-9f88-4486-a1f4-fe7e5d764bcd.gif)
+
+<!--![DP](https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/899f15fe-eb13-4aa5-a18a-2b7945ec1786)
+
 <!--
  ![dev](https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/9fe6247e-43bf-419f-836f-e74a84c14334)
+ ![1609097444281](https://github.com/user-attachments/assets/9d3e555d-1b31-48cb-9d4a-d0dde93e15f3)
 -->
 
-![1609097444281](https://github.com/user-attachments/assets/9d3e555d-1b31-48cb-9d4a-d0dde93e15f3)
+
 
 
 <h1 align="center"><b>Hi 👋, I'm </b></h1>
