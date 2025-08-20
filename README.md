@@ -10,11 +10,6 @@
 
 ![banner-bg](https://user-images.githubusercontent.com/109952575/208571815-e747c4d7-9f88-4486-a1f4-fe7e5d764bcd.gif)
 
-<div class="robot">
-  <script type="module" src="https://unpkg.com/@splinetool/viewer@1.3.5/build/spline-viewer.js"></script>
-  <spline-viewer url="https://prod.spline.design/AqtlWJlNbO-ZMkvz/scene.splinecode"></spline-viewer>
-</div>
-
 
 <!--![DP](https://github.com/SanchithaUdana/SanchithaUdana/assets/109952575/899f15fe-eb13-4aa5-a18a-2b7945ec1786)
 
